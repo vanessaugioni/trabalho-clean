@@ -1,11 +1,19 @@
+## Informações
+
 Grupo: GRUPO I
-Integrantes: Vanessa Ugioni e Isabelle Feltrin
-Linguagem: TypeScript
-Domínio: Automação de testes
-Smells: Homem do Meio e Classe de Biblioteca Incompleta
-Categoria: Bloaters
-Execução: `npm run start`
----
+
+Integrantes: [Vanessa Ugioni, Isabelle Feltrin]
+
+Linguagem: typescript
+
+Dominio: "Automação de testes"
+
+Smell: Homem do Meio, Classe de Biblioteca Incompleta
+
+Categoria: bloaters
+
+Execucao: "npm run start"
+
 
 ## Intenção do código
 ...
